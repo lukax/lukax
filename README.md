@@ -4,7 +4,7 @@
   <a href="https://lucasespindola.com"><img alt="Website" src="https://img.shields.io/badge/lucasespindola.com-0d1117?style=flat-square&logo=gnometerminal&logoColor=7ee787"></a>
   <a href="https://huggingface.co/PinataCloud/Llama-Doorman-22M"><img alt="Hugging Face" src="https://img.shields.io/badge/Llama--Doorman--22M-ffd21e?style=flat-square&logo=huggingface&logoColor=000"></a>
   <a href="https://linkedin.com/in/espdlucas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=fff"></a>
-  <a href="mailto:me@lucasespindola.com"><img alt="Email" src="https://img.shields.io/badge/me@lucasespindola.com-2f81f7?style=flat-square&logo=maildotru&logoColor=fff"></a>
+  <a href="mailto:me@lucasespindola.com"><img alt="Email me" src="https://img.shields.io/badge/Email-2f81f7?style=flat-square&logo=minutemailer&logoColor=fff"></a>
 </p>
 
 I do **applied AI research**: training small, specialised models that run on-device and outperform general frontier models on narrow security problems. I also build the infrastructure AI agents run on.
