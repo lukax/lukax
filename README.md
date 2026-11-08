@@ -7,7 +7,7 @@
   <a href="mailto:me@lucasespindola.com"><img alt="Email me" src="https://img.shields.io/badge/Email-2f81f7?style=flat-square&logo=minutemailer&logoColor=fff"></a>
 </p>
 
-I do **applied AI research**: training small, specialised models that run on-device and outperform general frontier models on narrow security problems. I also build the infrastructure AI agents run on.
+I do **applied AI research**: training small, specialised models that run on-device and outperform general frontier models on narrow security problems. I also build the platforms AI agents run on, and work on **IPFS** and content-addressed storage at petabyte scale.
 
 🖥️ My site is a tiny desktop with a terminal. Go to **[lucasespindola.com](https://lucasespindola.com)** and type `help`.
 
