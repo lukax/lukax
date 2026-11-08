@@ -45,4 +45,4 @@ An edge query plane, a regional Byzantine-fault-tolerant control plane and a glo
 
 ## 🏆 Elsewhere
 
-Hackathon judge at **HackMIT 2026** and **Hacktech 2026**.
+Hackathon judge at **HackMIT 2025** and **Hacktech 2026**.
